@@ -1,0 +1,7 @@
+# Files
+*.db
+*.log
+
+# Dirs
+./target
+./bin
